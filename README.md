@@ -23,6 +23,6 @@ please visit the system using the following URL:
 **Overview of Image Processing Subsystem**
 ![image](https://user-images.githubusercontent.com/41056415/162418737-da4268cf-50fc-4f1e-86ff-8aef67f4d930.png)
 
+**The sample screenshot of the SnapMode Web-based Application.**
+![image](https://user-images.githubusercontent.com/41056415/162419609-1dfa8cd8-d6ce-4d34-a39d-6eda13354ae4.png)
 
-# system architecture
-Big Data Tools : Apache Storm, Apache Kafka, Apache Solr and Milvus
