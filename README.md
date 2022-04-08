@@ -3,9 +3,11 @@
 - It proposes a disentangled feature extraction method through a deep convolutional generative adversarial networks (DCGANs) for content-based image indexing and retrieval.
 - It provides a solution to power embedding similarity search through the Milvus engine
 
-please visit the system using the following URL: 
+Please visit the system using the following URL: 
 
 **https://www.snapmode.ir/**
+
+**Unfortunately, due to the commercial nature of the product, I can not share its code**
 
 # system architecture
 
