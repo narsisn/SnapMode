@@ -15,3 +15,6 @@ please visit the system using the following URL:
 **Overview of Crawler Subsystem**
 
 ![image](https://user-images.githubusercontent.com/41056415/162418655-73505cc7-49b4-48ca-854c-94aa2acacf2b.png)
+
+**Overview of Image Processing Subsystem**
+![image](https://user-images.githubusercontent.com/41056415/162418737-da4268cf-50fc-4f1e-86ff-8aef67f4d930.png)
