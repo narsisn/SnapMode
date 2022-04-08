@@ -7,7 +7,7 @@ Please visit the system using the following URL:
 
 **https://www.snapmode.ir/**
 
-**Unfortunately, due to the commercial nature of the product, I can not share its code**
+**Unfortunately, due to the commercial nature of the product, I can not share its code. Please Find the paper at this URL.**
 
 # system architecture
 
