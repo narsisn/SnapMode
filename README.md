@@ -1,4 +1,8 @@
 # SnapMode: First Iranin Large-Scale Image Retrieval System 
+- It presents a distributed stream processing platform for the real-time analysis of fashion data based on open-source big data analysis tools including Apache Storm, Apache Kafka, Apache Solr.
+- It proposes a disentangled feature extraction method through a deep convolutional generative adversarial networks (DCGANs) for content-based image indexing and retrieval.
+- It provides a solution to power embedding similarity search through the Milvus engine
+
 please visit the system using the following URL: 
 
 **https://www.snapmode.ir/**
@@ -18,3 +22,7 @@ please visit the system using the following URL:
 
 **Overview of Image Processing Subsystem**
 ![image](https://user-images.githubusercontent.com/41056415/162418737-da4268cf-50fc-4f1e-86ff-8aef67f4d930.png)
+
+
+# system architecture
+Big Data Tools : Apache Storm, Apache Kafka, Apache Solr and Milvus
